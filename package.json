@@ -1,0 +1,36 @@
+{
+  "name": "formidable",
+  "version": "1.0.0",
+  "description": "React.js form builder",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MartianGreed/formidable.git"
+  },
+  "keywords": [
+    "javascript",
+    "form builder"
+  ],
+  "author": "Valentin Dosimont <valentin.dosimont@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MartianGreed/formidable/issues"
+  },
+  "homepage": "https://github.com/MartianGreed/formidable#readme",
+  "devDependencies": {
+    "@babel/core": "^7.8.4",
+    "@babel/preset-env": "^7.8.4",
+    "@babel/preset-react": "^7.8.3",
+    "babel-jest": "^25.1.0",
+    "jest": "^25.1.0",
+    "react-test-renderer": "^16.13.0"
+  },
+  "dependencies": {
+    "react": "^16.13.0",
+    "react-dom": "^16.13.0",
+    "recompose": "^0.30.0"
+  }
+}
