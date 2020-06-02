@@ -8,6 +8,12 @@ We have wrappers for :
 - [ ] Redux Form
 - [ ] useForm
 
+What's next :
+- [ ] Create Formik's FormWrapper component
+- [ ] Create Formik's ReduxFormWrapper component
+- [ ] Create useConfig hook
+- [ ] Create withDataFetching HOC
+
 *if you use any of theses libraries, feel free to contribute !*
 
 
